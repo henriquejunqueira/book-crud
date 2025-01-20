@@ -14,3 +14,11 @@
   "dev": "nodemon src/server.js"
 }
 ```
+
+### Uploading project with Docker Compose
+
+- `$ docker-compose up --build`
+
+### Running the docker image
+
+- `$ docker-compose up -d`

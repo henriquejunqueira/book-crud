@@ -1,5 +1,7 @@
 # Repository of my book crud project using Node.js
 
+## Commands used
+
 ### Creating the project and installing the necessary dependencies
 
 - `$ npm init -y`
@@ -22,3 +24,25 @@
 ### Running the docker image
 
 - `$ docker-compose up -d`
+
+## Project images
+
+#### Create a book
+
+![](./img/create-book.png)
+
+#### List All Books
+
+![](./img/list-all-books.png)
+
+#### Search Book By ID
+
+![](./img/search-book-by-id.png)
+
+### Update Book
+
+![](./img/update-book.png)
+
+### Delete Book
+
+![](./img/delete-book.png)

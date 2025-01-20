@@ -27,15 +27,15 @@
 
 ## Project images
 
-#### Create a book
+### Create a book
 
 ![](./img/create-book.png)
 
-#### List All Books
+### List All Books
 
 ![](./img/list-all-books.png)
 
-#### Search Book By ID
+### Search Book By ID
 
 ![](./img/search-book-by-id.png)
 
